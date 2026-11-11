@@ -9,7 +9,7 @@ Electrical Engineering student interested in:
 
 Currently learning:
 
-• KiCad
+- KiCad
 - Python
 - C/C++
 - MATLAB
